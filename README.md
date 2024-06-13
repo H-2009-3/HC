@@ -6,7 +6,7 @@
 <body>
   <table>
     <tr>
-      <td><img src="D:\madi\Web Dev - madi"></TD>
+      <td><img src="desktop/hardik.png"></TD>
         <td><h1>HARDIK CHOPRA</h1>
 
           <p><em>STUDENT AT <strong><a href="https://www.vsec.in/images/About-bg/about1.jpg">DR VSEC</a> </strong>  </em>
