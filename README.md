@@ -6,7 +6,7 @@
 <body>
   <table>
     <tr>
-      <td><img src="https://cdn1.vectorstock.com/i/1000x1000/58/60/young-man-casual-avatar-with-glasses-vector-14695860.jpg"width="300" height="250" alt="HARDIK PROFILE PICTURE"></TD>
+      <td><img src="D:\madi\Web Dev - madi"></TD>
         <td><h1>HARDIK CHOPRA</h1>
 
           <p><em>STUDENT AT <strong><a href="https://www.vsec.in/images/About-bg/about1.jpg">DR VSEC</a> </strong>  </em>
